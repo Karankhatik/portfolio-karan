@@ -17,10 +17,10 @@ function ResumeNew() {
 
   return (
     <div>
-      <Container fluid className="resume-section mt-5">
+      <Container fluid className="resume-section mt-3">
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
-        <Button
+          <Button
             variant="primary"
             href={pdf}
             target="_blank"

@@ -18,7 +18,7 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
-            <p className="home-about-body" style={{ textAlign: "justify" }}>
+            <p className="home-about-body" >
               Analytical and detail-oriented aspiring full stack Developer. Demonstrated brilliant interpersonal skills and
               effective communication through successful teamwork in various
               projects.

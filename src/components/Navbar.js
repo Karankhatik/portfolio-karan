@@ -40,7 +40,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand className="d-flex">
           <Link as={Link} to="/">
-          <img src={logo}  style={{width:'150px', height:'150px'}} alt="brand" />
+          <img src={logo}  style={{width:'100px', height:'100px'}} alt="brand" />
           </Link>
           
         </Navbar.Brand>

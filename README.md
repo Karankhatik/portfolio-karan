@@ -13,8 +13,7 @@ My personal portfolio <a href="https://karan-khatik.vercel.app/" target="_blank"
 This project was built using these technologies.
 
 - React.js
-- Node.js
-- Express.js
+- Bootstrap
 - CSS3
 - VsCode
 - Vercel

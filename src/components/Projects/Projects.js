@@ -10,7 +10,7 @@ import movie_app from "../../Assets/Projects/movie-app.png";
 
 function Projects() {
   return (
-    <Container fluid className="project-section mt-3" >
+    <Container fluid className="project-section" >
       <Particle />
       <Container>
         <h1 className="project-heading">

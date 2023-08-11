@@ -38,7 +38,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand className="d-flex">
+      <Navbar.Brand className="d-flex">
           <Link as={Link} to="/">
           <img src={logo}  style={{width:'100px', height:'100px'}} alt="brand" />
           </Link>
@@ -53,6 +53,7 @@ function NavBar() {
           <span></span>
           <span></span>
           <span></span>
+          
         </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">
@@ -89,12 +90,21 @@ function NavBar() {
               <Nav.Link
                 as={Link}
                 to="/resume"
-                onClick={() => updateExpanded(false)}
+                onClick={() => updateExpanded(false)} 
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
-           
+            <Nav.Item className="fork-btn">
+              <Button
+                href="https://github.com/Karankhatik/portfolio-karan"
+                target="_blank"
+                className="fork-btn-inner"
+              >
+                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
+                <AiFillStar style={{ fontSize: "1.1em" }} />
+              </Button>
+            </Nav.Item>
           </Nav>
         </Navbar.Collapse>
       </Container>

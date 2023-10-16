@@ -5,7 +5,6 @@
 
 <br/>
 
-
 ## Built With
 
 My personal portfolio <a href="https://karan-khatik.vercel.app/" target="_blank">karan-khatik</a> which features some of my github projects as well as my resume and technical skills.<br/>

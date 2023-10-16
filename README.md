@@ -1,13 +1,13 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://karan-khatik.vercel.app/" target="_blank">karan-khatik</a>
+  <a href="https://karan-khatik.vercel.app/" target="_blank">Karan-Khatik</a>
 </h2>
 
 <br/>
 
 ## Built With
 
-My personal portfolio <a href="https://karan-khatik.vercel.app/" target="_blank">karan-khatik</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://karan-khatik.vercel.app/" target="_blank">Karan-Khatik</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
